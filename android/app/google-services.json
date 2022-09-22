@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "212758876308",
+    "firebase_url": "https://interviewassignment-39d95-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "interviewassignment-39d95",
+    "storage_bucket": "interviewassignment-39d95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212758876308:android:3ff7ec42a16ac1d327e481",
+        "android_client_info": {
+          "package_name": "com.example.internship_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212758876308-2uaaobfarlrl20cgl0tcul1i5grgsnvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxusOTKxw0palP_psHTmoOt9C5sTSMlCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212758876308-2uaaobfarlrl20cgl0tcul1i5grgsnvs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212758876308-86j6spg0pcimcoft2lc00bl5f0uiiat7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.internshipAssignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
